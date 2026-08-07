@@ -1,0 +1,61 @@
+﻿PRIOR_AUTH_ID,AUTH_STATUS,REQUEST_DATE,DECISION_DATE,REPORT_DATE,REPORT_MONTH,REPORT_YEAR,DECISION_DAYS,SERVICE_TYPE,REQUESTED_UNITS,APPROVED_UNITS,URGENT_FLAG,DENIAL_REASON,PATIENT_ID,DOCTOR_ID,PAYER_ID,PLAN_ID,PROVIDER_ID,PROVIDER_NAME,PROVIDER_TYPE,PROVIDER_SPECIALTY
+8,Approved,2025-07-15,2025-07-23,2026-04-06,7,2025,8,Procedure,6,6,false,,105,32,5,8,3,Lewis Hospital,Urgent Care,Orthopedics
+48,Pending,2025-10-20,,2026-04-06,10,2025,,Inpatient Stay,7,3,true,,88,8,3,4,5,Orozco Health Group,Urgent Care,Behavioral Health
+60,Denied,2025-11-16,2025-11-25,2026-04-06,11,2025,9,Procedure,4,1,true,Incomplete request,67,22,3,8,17,Watkins Health Group,Clinic,Primary Care
+58,Denied,2025-03-05,2025-03-13,2026-04-06,3,2025,8,Imaging,8,8,true,Out of network,74,20,1,1,2,Johnson Hospital,Urgent Care,Primary Care
+44,Approved,2025-12-18,2025-12-21,2026-04-06,12,2025,3,Imaging,6,6,true,,44,11,1,3,6,Payne Health Group,Hospital,Primary Care
+36,Denied,2025-05-20,2025-05-30,2026-04-06,5,2025,10,Inpatient Stay,6,1,true,Incomplete request,71,3,1,8,8,Medina Clinic,Behavioral Health,Primary Care
+34,Denied,2025-03-23,2025-03-25,2026-04-06,3,2025,2,Procedure,5,2,false,Not medically necessary,93,39,5,5,13,Anderson Health Group,Hospital,Primary Care
+11,Pending,2025-12-25,,2026-04-06,12,2025,,Medication,3,1,true,,111,5,1,1,11,Erickson Health Group,Clinic,Orthopedics
+52,Denied,2025-08-28,2025-08-30,2026-04-06,8,2025,2,Inpatient Stay,10,0,true,Incomplete request,32,20,5,9,5,Orozco Health Group,Urgent Care,Behavioral Health
+13,Denied,2025-08-11,2025-08-14,2026-04-06,8,2025,3,Inpatient Stay,7,4,true,Not medically necessary,61,21,2,8,12,Watts Hospital,Group Practice,Behavioral Health
+49,Pending,2025-11-10,,2026-04-06,11,2025,,Medication,7,1,false,,70,5,4,10,14,Payne Health Group,Urgent Care,Behavioral Health
+26,Approved,2025-04-19,2025-04-24,2026-04-06,4,2025,5,Procedure,4,4,false,,22,35,2,4,8,Medina Clinic,Behavioral Health,Primary Care
+6,Pending,2025-05-23,,2026-04-06,5,2025,,Medication,12,1,true,,77,29,3,9,8,Medina Clinic,Behavioral Health,Primary Care
+51,Approved,2025-03-28,2025-03-29,2026-04-06,3,2025,1,Procedure,12,12,true,,112,2,1,6,8,Medina Clinic,Behavioral Health,Primary Care
+22,Denied,2025-12-06,2025-12-14,2026-04-06,12,2025,8,Inpatient Stay,1,1,true,Incomplete request,116,33,5,8,1,Mcdonald Clinic,Group Practice,Primary Care
+23,Pending,2025-04-15,,2026-04-06,4,2025,,Imaging,6,1,true,,48,18,2,1,2,Johnson Hospital,Urgent Care,Primary Care
+47,Approved,2025-10-05,2025-10-10,2026-04-06,10,2025,5,Imaging,6,6,false,,84,7,3,1,17,Watkins Health Group,Clinic,Primary Care
+27,Pending,2025-02-14,,2026-04-06,2,2025,,Inpatient Stay,5,2,false,,26,15,4,7,18,Higgins Clinic,Hospital,Primary Care
+33,Pending,2025-03-09,,2026-04-06,3,2025,,Procedure,5,5,true,,36,38,1,5,17,Watkins Health Group,Clinic,Primary Care
+41,Denied,2025-11-25,2025-11-25,2026-04-06,11,2025,0,Procedure,9,2,true,Not medically necessary,118,18,4,1,10,Jackson Clinic,Group Practice,Cardiology
+50,Pending,2025-12-02,,2026-04-06,12,2025,,Medication,5,3,true,,65,24,5,8,4,Berry Health Group,Group Practice,Orthopedics
+24,Approved,2025-06-16,2025-06-17,2026-04-06,6,2025,1,Imaging,3,3,false,,37,1,1,6,7,Beard Medical Center,Hospital,Pediatrics
+31,Denied,2025-12-10,2025-12-11,2026-04-06,12,2025,1,Inpatient Stay,6,5,true,Not medically necessary,71,36,3,4,4,Berry Health Group,Group Practice,Orthopedics
+16,Pending,2025-02-25,,2026-04-06,2,2025,,Medication,11,4,false,,87,25,2,10,17,Watkins Health Group,Clinic,Primary Care
+29,Approved,2025-08-02,2025-08-05,2026-04-06,8,2025,3,Medication,9,9,true,,87,37,1,10,10,Jackson Clinic,Group Practice,Cardiology
+19,Denied,2025-09-11,2025-09-18,2026-04-06,9,2025,7,Medication,3,1,false,Not medically necessary,56,35,2,10,4,Berry Health Group,Group Practice,Orthopedics
+42,Denied,2025-05-21,2025-05-28,2026-04-06,5,2025,7,Medication,1,1,false,Out of network,20,29,4,6,8,Medina Clinic,Behavioral Health,Primary Care
+46,Pending,2025-02-26,,2026-04-06,2,2025,,Procedure,3,3,false,,96,6,1,7,10,Jackson Clinic,Group Practice,Cardiology
+4,Pending,2025-04-28,,2026-04-06,4,2025,,Medication,6,1,false,,58,8,2,4,5,Orozco Health Group,Urgent Care,Behavioral Health
+37,Approved,2025-11-06,2025-11-13,2026-04-06,11,2025,7,Procedure,3,3,true,,94,21,2,4,11,Erickson Health Group,Clinic,Orthopedics
+1,Pending,2025-08-02,,2026-04-06,8,2025,,Inpatient Stay,10,6,true,,47,32,3,4,5,Orozco Health Group,Urgent Care,Behavioral Health
+56,Denied,2025-02-14,2025-02-20,2026-04-06,2,2025,6,Inpatient Stay,3,3,true,Out of network,78,18,4,10,13,Anderson Health Group,Hospital,Primary Care
+9,Pending,2025-04-12,,2026-04-06,4,2025,,Imaging,3,3,true,,117,36,1,2,14,Payne Health Group,Urgent Care,Behavioral Health
+25,Pending,2025-12-13,,2026-04-06,12,2025,,Medication,3,0,false,,114,23,2,4,6,Payne Health Group,Hospital,Primary Care
+35,Approved,2025-04-21,2025-04-22,2026-04-06,4,2025,1,Medication,6,6,true,,17,28,2,9,17,Watkins Health Group,Clinic,Primary Care
+57,Denied,2025-05-06,2025-05-16,2026-04-06,5,2025,10,Procedure,7,2,true,Out of network,7,40,1,3,8,Medina Clinic,Behavioral Health,Primary Care
+43,Approved,2025-05-07,2025-05-13,2026-04-06,5,2025,6,Imaging,9,9,true,,25,29,4,2,10,Jackson Clinic,Group Practice,Cardiology
+7,Pending,2025-04-12,,2026-04-06,4,2025,,Inpatient Stay,5,5,false,,72,10,4,3,4,Berry Health Group,Group Practice,Orthopedics
+14,Approved,2025-12-12,2025-12-16,2026-04-06,12,2025,4,Medication,8,8,true,,41,22,4,4,1,Mcdonald Clinic,Group Practice,Primary Care
+39,Approved,2025-05-10,2025-05-16,2026-04-06,5,2025,6,Procedure,8,8,true,,11,5,1,9,4,Berry Health Group,Group Practice,Orthopedics
+21,Pending,2025-02-12,,2026-04-06,2,2025,,Imaging,9,7,false,,71,34,1,6,8,Medina Clinic,Behavioral Health,Primary Care
+20,Approved,2025-06-19,2025-06-29,2026-04-06,6,2025,10,Medication,3,3,true,,31,28,5,5,6,Payne Health Group,Hospital,Primary Care
+2,Approved,2025-03-23,2025-03-30,2026-04-06,3,2025,7,Procedure,7,7,false,,35,2,5,3,5,Orozco Health Group,Urgent Care,Behavioral Health
+53,Pending,2025-01-07,,2026-04-06,1,2025,,Imaging,10,9,false,,48,7,5,8,6,Payne Health Group,Hospital,Primary Care
+18,Pending,2025-07-28,,2026-04-06,7,2025,,Inpatient Stay,11,3,false,,50,10,1,7,10,Jackson Clinic,Group Practice,Cardiology
+45,Pending,2025-03-08,,2026-04-06,3,2025,,Imaging,11,4,true,,41,32,1,2,10,Jackson Clinic,Group Practice,Cardiology
+54,Approved,2025-11-19,2025-11-25,2026-04-06,11,2025,6,Imaging,1,1,true,,32,26,1,10,4,Berry Health Group,Group Practice,Orthopedics
+17,Pending,2025-10-08,,2026-04-06,10,2025,,Procedure,1,0,true,,56,7,1,7,18,Higgins Clinic,Hospital,Primary Care
+5,Denied,2025-01-29,2025-02-05,2026-04-06,1,2025,7,Imaging,10,1,true,Out of network,118,6,3,10,18,Higgins Clinic,Hospital,Primary Care
+12,Approved,2025-06-06,2025-06-08,2026-04-06,6,2025,2,Inpatient Stay,6,6,false,,64,18,5,4,15,Mendoza Medical Center,Hospital,Behavioral Health
+55,Approved,2025-09-03,2025-09-03,2026-04-06,9,2025,0,Medication,4,4,false,,72,40,3,7,15,Mendoza Medical Center,Hospital,Behavioral Health
+28,Pending,2025-03-31,,2026-04-06,3,2025,,Imaging,6,3,true,,52,13,1,2,18,Higgins Clinic,Hospital,Primary Care
+32,Denied,2025-06-06,2025-06-08,2026-04-06,6,2025,2,Inpatient Stay,1,0,false,Not medically necessary,44,14,1,10,8,Medina Clinic,Behavioral Health,Primary Care
+3,Denied,2025-03-18,2025-03-22,2026-04-06,3,2025,4,Inpatient Stay,11,9,true,Not medically necessary,55,11,3,8,16,Price Clinic,Clinic,Pediatrics
+30,Pending,2025-05-18,,2026-04-06,5,2025,,Medication,3,1,true,,96,37,5,2,10,Jackson Clinic,Group Practice,Cardiology
+10,Approved,2025-04-20,2025-04-24,2026-04-06,4,2025,4,Inpatient Stay,3,3,false,,49,15,2,5,12,Watts Hospital,Group Practice,Behavioral Health
+15,Denied,2025-06-23,2025-07-03,2026-04-06,6,2025,10,Imaging,4,4,false,Not medically necessary,67,22,5,8,5,Orozco Health Group,Urgent Care,Behavioral Health
+38,Approved,2025-01-12,2025-01-15,2026-04-06,1,2025,3,Inpatient Stay,8,8,true,,84,21,2,5,5,Orozco Health Group,Urgent Care,Behavioral Health
+59,Denied,2025-01-22,2025-01-30,2026-04-06,1,2025,8,Procedure,8,5,false,Incomplete request,76,34,5,6,12,Watts Hospital,Group Practice,Behavioral Health
+40,Denied,2025-11-04,2025-11-08,2026-04-06,11,2025,4,Procedure,10,2,true,Out of network,105,3,5,6,1,Mcdonald Clinic,Group Practice,Primary Care
