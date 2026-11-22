@@ -1,15 +1,12 @@
 # Healthcare Provider Performance Analytics Dashboard
 
-A Snowflake → Tableau analytics pipeline built on realistic, messy healthcare data covering appointments, encounters, claims, prior authorizations, and provider/department reference data. The project follows a Bronze → Silver → Gold architecture and surfaces the KPIs a provider organization actually uses: collection rate, no-show rate, authorization approval rate, and denial breakdown.
+I used a healthcare billing practice dataset to explore how claims, appointments, and prior authorizations can be reported together. I wrote Snowflake SQL to standardize statuses, check records, and prepare data for Tableau.
 
 ![Dashboard](dashboard/tableau-dashboard.png)
 
-## Key Findings
+## Reading the dashboard
 
-- **66.51% collection rate**: $38,250.59 billed vs. $25,439.36 collected across 47 encounters and 38 unique patients.
-- **25.45% no-show rate**: 112 of 440 appointments.
-- **Authorization approval rate varies sharply by department**: Pediatrics 55.4%, Orthopedics 43.3%, Primary Care 37.5%, Emergency just **5.0%**.
-- Claim denials break down almost evenly across three preventable causes: missing documentation, expired coverage, and authorization required.
+The dashboard shows collections, no-shows, authorization outcomes, and denial categories in the practice dataset. Check appointment and authorization totals against their source tables before aggregating them from Gold. The provider-level totals can repeat across encounter and claim rows.
 
 ## Architecture
 
